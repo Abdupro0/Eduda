@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EliteA\\Desktop\\Eduda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|c:\\users\\elitea\\desktop\\eduda\\eduda\\forms\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|c:\\users\\elitea\\desktop\\eduda\\eduda\\forms\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|c:\\users\\elitea\\desktop\\eduda\\eduda\\forms\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usworker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usworker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\uscourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\uscourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usmange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usmange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usmange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usmange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\choseemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\choseemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\classes\\dt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\classes\\dt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\usmange.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\usmange.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\choseemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\choseemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\classes\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\classes\\maininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\classes\\edudaclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\classes\\edudaclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\forms\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\forms\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|C:\\Users\\EliteA\\Desktop\\Eduda\\eduda\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A32C72-0A67-421C-B69F-3997B4254CD1}|Eduda\\Eduda.csproj|solutionrelative:eduda\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "USstudents.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USstudents.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USstudents.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USstudents.cs",
+              "RelativeToolTip": "Eduda\\Forms\\USstudents.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwFIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:52:44.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "USstudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USstudents.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USstudents.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USstudents.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\USstudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:51:42.682Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\AboutUS.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\AboutUS.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\AboutUS.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\AboutUS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:01:47.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FRMAddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMAddStudent.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\FRMAddStudent.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMAddStudent.cs",
+              "RelativeToolTip": "Eduda\\Forms\\FRMAddStudent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:49:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FRMAddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMAddStudent.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\FRMAddStudent.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMAddStudent.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\FRMAddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:46:46.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UScourses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\UScourses.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\UScourses.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\UScourses.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\UScourses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:22:06.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "USmange.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USmange.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.cs",
+              "RelativeToolTip": "Eduda\\Forms\\USmange.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAABsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:20:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "USmange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USmange.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\USmange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:19:37.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "choseEmp.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\choseEmp.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\choseEmp.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\choseEmp.cs",
+              "RelativeToolTip": "Eduda\\Forms\\choseEmp.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:47:04.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "choseEmp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\choseEmp.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\choseEmp.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\choseEmp.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\choseEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:44:40.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "USmange.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.Designer.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USmange.Designer.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USmange.Designer.cs",
+              "RelativeToolTip": "Eduda\\Forms\\USmange.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:31:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "USWorker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USWorker.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\USWorker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:29:36.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "USWorker.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USWorker.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.cs",
+              "RelativeToolTip": "Eduda\\Forms\\USWorker.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:43:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:46:53.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\Dashboard.cs",
+              "RelativeToolTip": "Eduda\\Forms\\Dashboard.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:04:27.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainInterface.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\MainInterface.cs",
+              "RelativeDocumentMoniker": "Eduda\\Classes\\MainInterface.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\MainInterface.cs",
+              "RelativeToolTip": "Eduda\\Classes\\MainInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:26:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRMLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMLog.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\FRMLog.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMLog.cs [Design]",
+              "RelativeToolTip": "Eduda\\Forms\\FRMLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:05:32.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Program.cs",
+              "RelativeDocumentMoniker": "Eduda\\Program.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Program.cs",
+              "RelativeToolTip": "Eduda\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:42:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FRMLog.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMLog.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\FRMLog.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\FRMLog.cs",
+              "RelativeToolTip": "Eduda\\Forms\\FRMLog.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:58:19.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DT.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\DT.cs",
+              "RelativeDocumentMoniker": "Eduda\\Classes\\DT.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\DT.cs",
+              "RelativeToolTip": "Eduda\\Classes\\DT.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:33:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Class1.cs",
+              "RelativeDocumentMoniker": "Eduda\\Class1.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Class1.cs",
+              "RelativeToolTip": "Eduda\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:50:24.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "USWorker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.Designer.cs",
+              "RelativeDocumentMoniker": "Eduda\\Forms\\USWorker.Designer.cs",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Forms\\USWorker.Designer.cs",
+              "RelativeToolTip": "Eduda\\Forms\\USWorker.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:01:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EdudaClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\EdudaClassDiagram.cd",
+              "RelativeDocumentMoniker": "Eduda\\Classes\\EdudaClassDiagram.cd",
+              "ToolTip": "C:\\Users\\EliteA\\Desktop\\Eduda\\Eduda\\Classes\\EdudaClassDiagram.cd",
+              "RelativeToolTip": "Eduda\\Classes\\EdudaClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-12-24T03:25:39.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

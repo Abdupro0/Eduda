@@ -1,0 +1,178 @@
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.csproj.AssemblyReference.cache
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.Form1.resources
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.Properties.Resources.resources
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.csproj.GenerateResource.cache
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.csproj.CoreCompileInputs.cache
+D:\My project\Eduda\Eduda\bin\Debug\bin\Debug\EdudaDB.mdf
+D:\My project\Eduda\Eduda\bin\Debug\bin\Debug\EdudaDB_log.ldf
+D:\My project\Eduda\Eduda\bin\Debug\Eduda.exe.config
+D:\My project\Eduda\Eduda\bin\Debug\Eduda.exe
+D:\My project\Eduda\Eduda\bin\Debug\Eduda.pdb
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.exe
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.pdb
+D:\My project\Eduda\Eduda\obj\Debug\Eduda.exe.config
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.csproj.AssemblyReference.cache
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.exe.config
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Properties.Resources.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.csproj.GenerateResource.cache
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.csproj.CoreCompileInputs.cache
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.exe
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.pdb
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\bin\Debug\EdudaDB.mdf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\bin\Debug\EdudaDB_log.ldf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Eduda.exe.config
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Eduda.exe
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Eduda.pdb
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Data.Desktop.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Data.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Drawing.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Printing.v25.1.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Utils.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraBars.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraEditors.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Pdf.v25.1.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Pdf.v25.1.Drawing.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Sparkline.v25.1.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Data.Desktop.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Data.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Drawing.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Printing.v25.1.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Utils.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraBars.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraEditors.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Pdf.v25.1.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Pdf.v25.1.Drawing.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Sparkline.v25.1.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.csproj.Up2Date
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\MaterialSkin.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.FRMLog.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Forms\FRMLog.resx
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Forms\FRMLog.cs
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Forms\FRMLog.Designer.cs
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Azure.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Azure.Identity.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Buffers.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.ClientModel.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Memory.Data.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Memory.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.AccessControl.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Text.Json.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.ValueTuple.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Azure.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Azure.Identity.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Buffers.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.ClientModel.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Memory.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Memory.Data.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.AccessControl.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Text.Json.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\System.ValueTuple.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.csproj.SuggestedBindingRedirects.cache
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Tutorials.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraLayout.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.DemoData.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraPrinting.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraGrid.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraTreeList.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraNavBar.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.RichEdit.v25.1.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.CodeParser.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraRichEdit.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Office.v25.1.Core.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Images.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraLayout.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraPrinting.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraGrid.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraTreeList.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraNavBar.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.RichEdit.v25.1.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.XtraRichEdit.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Office.v25.1.Core.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.BonusSkins.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.AboutUS.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\bin\Debug\Shcool Management System.mdf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\bin\Debug\Shcool Management System_log.ldf
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.usStudents.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.Dashboard.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\EdudaDB.mdf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\EdudaDB_log.ldf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.DataAccess.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Xpo.v25.1.dll
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.DataAccess.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\DevExpress.Xpo.v25.1.xml
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.USWorker.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\App Data\Shcool Management System.mdf
+C:\Users\EliteA\Desktop\Eduda\Eduda\bin\Debug\App Data\Shcool Management System_log.ldf
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.USmange.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.choseEmp.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.UScourses.resources
+C:\Users\EliteA\Desktop\Eduda\Eduda\obj\Debug\Eduda.Forms.FRMAddStudent.resources
